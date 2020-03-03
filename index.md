@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [寒武纪IPO，AI芯片创业者的第2春还远吗？](article/article202003030000001.html) and ![Image](src)
 ```
+[寒武纪IPO，AI芯片创业者的第2春还远吗？](article/article202003030000001.html) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
